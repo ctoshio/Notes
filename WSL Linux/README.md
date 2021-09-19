@@ -29,7 +29,7 @@ python3 -m http.server
 ```
 Go to ```localhost:8000``` to display your html file.
 
-
+[Docker and wsl2](https://towardsdatascience.com/how-to-improve-docker-performance-with-wsl2-3a54402ab0f2/)
 
 
 
