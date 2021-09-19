@@ -1,0 +1,26 @@
+/mnt/c/Users/Toshio/documents
+
+linux
+
+pip install virtualenv
+
+virtualens clase_1
+source clase_1/bin/activate
+
+
+try > catch error
+
+number = []
+while True:
+  try:
+	x= int(input("Ingresa un numero: "))
+	numbers.append(x)
+	if sum(numbers)>=100:
+	 break
+  excepts ValueError:
+     print("el valor asignado no es un numero")
+
+def get_division(a, b):
+	print(a/b)
+
+get_division(1,0)

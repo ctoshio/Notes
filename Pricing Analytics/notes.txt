@@ -1,0 +1,108 @@
+Introduccion a procong analytics
+
+	Aplicaciones
+		Retail
+			optimiar el precio de los productos
+			rentabilizar los descuentos aplicados
+
+			plaza vea low cost peremne en el tiempo (no hacen ofertas pero hace precios bajos)
+			
+		bank
+			optimizar de tasas
+			analisi de cosechas
+			
+			banca retail precio = es la tasa prestamo , optimizar la tasa para el cliente analisis de cosecha
+
+		casino
+			optimizar la problidad retencion demaquinas
+			
+			porcentaje de devolucion -Cuanto quiero q la maquina RETENGA EL MONEY ( PROBABILIDAD de la maquina retenga el dinero y devuelva al jugador)
+
+
+		CADA NEGOCIO TIENE SU PROPIA ESTRATEGIA , TODOS GENERAN INGRESO A BASE DEL PRECIO
+
+	CICLO DE UNA ESTRETAGIA
+		PASO 1 inteligencia de cliente y sensiblidad de precio 
+			Proceso de almacenar como se mueve nuestro precio ,datamart de precios coleccion de data precios TUYO, TODO REGISTRADO
+
+		PASO 2 anlisis del entorno competitivo 
+			Como esta ofrenciendo la tienda del frente, nivel posiciomeinto de nuestro competidores, entender la estrategia de nuestro competidores
+
+		PASO 3 integracion comercial
+			Que se espera respecto al producto , en que etapa se encuentra tu producto para marketearlo y vender mas ese producto 
+		
+		PASO 4 herramientas y operaticizacion
+			simulador de precios
+			automizacion de deciones en base a nuevos precios
+
+		PASO 5 responsibilidad gerencial
+			Cuales es el objetivo que se quiere posiconar la empresa ( los del precio mas bajo , o el de mejor calidad)
+			alinieado a la necesidad o objetivo  gerencial 
+		
+ANALIZAR LOS FACTORES EXTERNOS	
+
+PREGUNTAS>
+establecer el precio
+	anlizar el mercado un bechmark o el de tu proveedor y llegas a un ideal
+
+
+que soporta la entregia que esta detras de la estrategia
+	1-Inteligencia de negico
+		tener claro nuesto objetivo que queremos almacenar y a donde queremos llevar con pricing analytics
+		balance analizar la data que impacta a tu precio 
+	2-extraccion inteligencia de informacion
+		webscarpping
+	3 conocimiento de software especializado
+		python , elasticidad metodos econocimos , r
+
+OPROTUNIDAD DE NEGOCIO
+	esto trae el pricing analytics aprevachando la disponiblidad de informacion
+		2.08.55
+		recopilar info > 
+		relaizar estrategia de precios>
+		brindar una optimizacion de precio o promocion>
+		mide el impacto generado>
+
+drivers : costos,elasticidad del producto, competencia (estrategia), valocidad dinamismo de cambiar el precio  automatismo
+
+indice deprecio : que tanto estoy por encima , o por debajo de mi competencia
+
+LA METODOLOGIA
+	1 definicion de productos relevantes
+		producto de alta recordacion
+	2 zonas de precios 
+		nivel socioecomicos , localidad a quien apunta , que clientes vip o no vip
+	3 modelos elasticidad de precios
+		medir en cada producto el cambio de precio
+	4 seguimiento de precios de la competencia
+		
+	5 definicion de precio segun objetivo t tipo de clietne
+		tener un SOLO precio , lo q tienes jugar es lo BONOS DESCUENTOS OFERTAS(post precio) mas recomendable personlizar estos
+ESTO HARA UN MODELO OPTIMO DE PRECIOS
+DESARROLLO
+	1 
+	VARIABLES EMPLEADAS
+		venta bruta meses
+		venta unidades meses
+		participacion en ticket mese
+		no considerar productos estacion o en liquidacion
+
+	producto de alta recordacion = KIV
+	tener esa etiqueta recordacio ALTO MEDIO BAJO  y el objetivo de cada product
+
+	2 
+	2.38.00
+
+	3
+	analisis de elastidad cada 3 meses 
+		estimacion del margen MIRA AHI  
+	
+		
+		
+	
+
+
+
+oprtunidad de negocios implementado analitica en los precios
+
+definicion de prodctos revelantes y productos de 
